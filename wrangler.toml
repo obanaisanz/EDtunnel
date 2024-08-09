@@ -1,23 +1,23 @@
-name = "idrumahweb-xcls-xl" # todo
+name = "idhostkey-addon25-xl" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "idrw.ayubisanz.xyz"
+pattern = "idhk01.yubisanz.my.id"
 custom_domain = true
 [[routes]]
-pattern = "df.game.naver.com.idrw.ayubisanz.xyz"
+pattern = "updates.netflix.com.idhk01.yubisanz.my.id"
 custom_domain = true
 [[routes]]
-pattern = "care.pmang.game.naver.com.idrw.ayubisanz.xyz"
+pattern = "quiz.int.vidio.com.idhk01.yubisanz.my.id"
 custom_domain = true
 [[routes]]
-pattern = "slugger.hangame.com.idrw.ayubisanz.xyz"
+pattern = "help.viu.com.idhk01.yubisanz.my.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.idrw.ayubisanz.xyz"
+pattern = "live.vuclip.com.idhk01.yubisanz.my.id"
 custom_domain = true
 
 [vars]
