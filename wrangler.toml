@@ -1,23 +1,23 @@
-name = "idakamaiv2-xcls-xl" # todo
+name = "sgmicrosoft-xcls-xl" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "idakm.ayubisanz.xyz"
+pattern = "sgmc.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "df.game.naver.com.idakm.ayubisanz.xyz"
+pattern = "df.game.naver.com.sgmc.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "care.pmang.game.naver.com.idakm.ayubisanz.xyz"
+pattern = "care.pmang.game.naver.com.sgmc.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "slugger.hangame.com.idakm.ayubisanz.xyz"
+pattern = "slugger.hangame.com.sgmc.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.idakm.ayubisanz.xyz"
+pattern = "ava.game.naver.com.sgmc.ayubisanz.xyz"
 custom_domain = true
 
 [vars]
