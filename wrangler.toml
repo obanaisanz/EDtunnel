@@ -1,23 +1,23 @@
-name = "sgamazonv1-xcls-xl" # todo
+name = "sgvultrv1-xcls-xl" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "sgamazonv1.ayubisanz.xyz"
+pattern = "sgvultrv1.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "df.game.naver.com.sgamazonv1.ayubisanz.xyz"
+pattern = "df.game.naver.com.sgvultrv1.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "care.pmang.game.naver.com.sgamazonv1.ayubisanz.xyz"
+pattern = "care.pmang.game.naver.com.sgvultrv1.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "slugger.hangame.com.sgamazonv1.ayubisanz.xyz"
+pattern = "slugger.hangame.com.sgvultrv1.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.sgamazonv1.ayubisanz.xyz"
+pattern = "ava.game.naver.com.sgvultrv1.ayubisanz.xyz"
 custom_domain = true
 
 [vars]
