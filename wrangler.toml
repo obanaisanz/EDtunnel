@@ -1,23 +1,23 @@
-name = "idakmnew-addon25k-xl" # todo
+name = "sgdonew-addon25k-xl" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "idakmnew.ayubisanz.xyz"
+pattern = "sgdonew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "updates.netflix.com.idakmnew.ayubisanz.xyz"
+pattern = "updates.netflix.com.sgdonew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.idakmnew.ayubisanz.xyz"
+pattern = "quiz.int.vidio.com.sgdonew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "investors.spotify.com.idakmnew.ayubisanz.xyz"
+pattern = "investors.spotify.com.sgdonew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.idakmnew.ayubisanz.xyz"
+pattern = "zaintest.vuclip.com.sgdonew.ayubisanz.xyz"
 custom_domain = true
 
 [vars]
