@@ -1,23 +1,23 @@
-name = "sgvultrv2-addon25k-xl" # todo
+name = "sgbytev1-addon25k-xl" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "sgvultrv2.ayubisanz.xyz"
+pattern = "sgbytev1.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "updates.netflix.com.sgvultrv2.ayubisanz.xyz"
+pattern = "updates.netflix.com.sgbytev1.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.sgvultrv2.ayubisanz.xyz"
+pattern = "quiz.int.vidio.com.sgbytev1.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "investors.spotify.com.sgvultrv2.ayubisanz.xyz"
+pattern = "investors.spotify.com.sgbytev1.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.sgvultrv2.ayubisanz.xyz"
+pattern = "zaintest.vuclip.com.sgbytev1.ayubisanz.xyz"
 custom_domain = true
 
 [vars]
