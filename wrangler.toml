@@ -1,23 +1,23 @@
-name = "idbeon-addon25k-xl" # todo
+name = "sgvultrnew-addon25k-xl" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "idbeon.ayubisanz.xyz"
+pattern = "sgvultrnew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "updates.netflix.com.idbeon.ayubisanz.xyz"
+pattern = "updates.netflix.com.sgvultrnew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.idbeon.ayubisanz.xyz"
+pattern = "quiz.int.vidio.com.sgvultrnew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "investors.spotify.com.idbeon.ayubisanz.xyz"
+pattern = "investors.spotify.com.sgvultrnew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.idbeon.ayubisanz.xyz"
+pattern = "zaintest.vuclip.com.sgvultrnew.ayubisanz.xyz"
 custom_domain = true
 
 [vars]
