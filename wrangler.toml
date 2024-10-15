@@ -1,23 +1,23 @@
-name = "sgvultrnew-addon25k-xl" # todo
+name = "sgovhnew-addon25k-xl" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "sgvultrnew.ayubisanz.xyz"
+pattern = "sgovhnew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "updates.netflix.com.sgvultrnew.ayubisanz.xyz"
+pattern = "updates.netflix.com.sgovhnew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.sgvultrnew.ayubisanz.xyz"
+pattern = "quiz.int.vidio.com.sgovhnew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "investors.spotify.com.sgvultrnew.ayubisanz.xyz"
+pattern = "investors.spotify.com.sgovhnew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.sgvultrnew.ayubisanz.xyz"
+pattern = "zaintest.vuclip.com.sgovhnew.ayubisanz.xyz"
 custom_domain = true
 
 [vars]
