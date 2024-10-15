@@ -1,23 +1,23 @@
-name = "idalibaba-addon25k-xl" # todo
+name = "idrumahwebnew-addon25k-xl" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "idalibaba.ayubisanz.xyz"
+pattern = "idrwnew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "updates.netflix.com.idalibaba.ayubisanz.xyz"
+pattern = "updates.netflix.com.idrwnew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.idalibaba.ayubisanz.xyz"
+pattern = "quiz.int.vidio.com.idrwnew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "investors.spotify.com.idalibaba.ayubisanz.xyz"
+pattern = "investors.spotify.com.idrwnew.ayubisanz.xyz"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.idalibaba.ayubisanz.xyz"
+pattern = "zaintest.vuclip.com.idrwnew.ayubisanz.xyz"
 custom_domain = true
 
 [vars]
