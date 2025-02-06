@@ -1,4 +1,4 @@
-name = "idherza"
+name = "sgwarp"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -34,14 +34,11 @@ custom_domain = true
 pattern = "app.genflix.co.id.id.vpnsabi.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "investor.spotify.com.id.vpnsabi.us.kg"
-custom_domain = true
-[[routes]]
 pattern = "ruangguru.com.id.vpnsabi.us.kg"
 custom_domain = true
 
 [vars]
-PROXYIP = "103.168.146.169:20132"
+PROXYIP = "152.69.219.168:8800"
 UUID = "3dfdfaab-6a14-42a8-be7c-4c91dbee5ef5"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
